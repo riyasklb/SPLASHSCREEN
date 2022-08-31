@@ -19,7 +19,7 @@ class _SplashScreenState extends State<SplashScreen> {
     return Scaffold(
       body: Center(
           child: Column(
-        children: [Image.asset('assets/'), Text('data')],
+        children: [Image.asset('assets/'), Text('datariyas')],
       )),
     );
   }
